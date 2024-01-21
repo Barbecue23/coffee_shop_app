@@ -1245,7 +1245,7 @@ class CartPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: _buildAppbar(),
-      body: _body4(),
+      body: _body4()
     );
   }
 }
