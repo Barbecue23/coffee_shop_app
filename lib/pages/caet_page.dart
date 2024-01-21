@@ -1229,7 +1229,6 @@ class CartPage extends StatelessWidget {
                         fontSize: 16.0,
                         fontWeight: FontWeight.w600,
                         color: Colors.white,
-                        
                       ),
                     ),
                   ),
