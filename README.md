@@ -13,5 +13,5 @@
 
 <h3> build by me </h3>
 
-![This is an alt text.][(https://github.com/Barbecue23/coffee_shop_app/assets/141807038/4067d7c7-046a-4c53-9b9c-bc9f32113b9b)]
+![This is an alt text.](https://github.com/Barbecue23/coffee_shop_app/assets/141807038/4067d7c7-046a-4c53-9b9c-bc9f32113b9b)
 
